@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+}
+
+.container{
+    width: 960px;
+    margin auto;
+}
+
+header{
+    background-color: red;
+}
+
+nav > ul > li{
+    display: inline-block;
+}
+
+main {
+    background-color: deeppink;
+    width: 60%;
+    display: inline-block;
+    height: 400px;
+}
+
+aside{
+    background-color: yellowgreen;
+    width: 40%;
+    display: inline-block;
+    float: right;
+    height: 360px;
+}
+
+footer {
+    background-color: green;
+    padding: 1%;
+}
+
+.articleP{
+    color: red;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+a:hover{
+    color: red;
+    transition: 0.7s;
+}

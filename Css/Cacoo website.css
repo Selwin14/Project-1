@@ -1,0 +1,35 @@
+body{
+
+}
+.eerste{
+    width: 200px;
+    height: 200px;
+    background-color: purple;
+    position: absolute;
+    bottom: 0;
+}
+
+.tweede{
+    width: 200px;
+    height: 200px;
+    background-color: purple;
+    position: absolute;
+    top: 0;
+}
+
+.derde{
+    width: 200px;
+    height: 200px;
+    background-color: darkcyan;
+    position: absolute;
+    left: 0;
+}
+
+.vierde{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    position: absolute;
+    right: 0;
+}
+

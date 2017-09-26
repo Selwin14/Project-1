@@ -1,0 +1,29 @@
+html{height: 98%;}
+body{height:98%;}
+#content{
+    width: 800px;
+    height: 98%;
+    margin:0px auto;
+    padding-top:0px;
+    padding-left:15px;
+    padding-right:15px;
+    -webkit-box-shadow: 4px 4px 10px rgba (0,0,0,0.5);
+    -moz-box-shadow: 4px 4px 10px rgba(0,0,0,0,5);
+    box-shadow:  4px 4px 10px rgba(0,0,0,0,5);
+}
+header{
+    text-align:center;
+}
+
+hgroup{
+    background:url(images/banner.png);
+    background-position:center;
+    background-repeat:no-repeat
+}
+hgroup h1 {
+    color: rgba(255,255,0,8);
+    font-family:Serif;
+    font-size: 44px;
+    font-weight: bold;
+    text-align: center;
+}

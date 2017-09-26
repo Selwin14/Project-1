@@ -1,0 +1,184 @@
+.container {
+    width: 1160px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+header{
+    width: 1160px;
+    height: 200px;
+    background-color: cyan;
+}
+
+header > .img >img{
+    width: 800px;
+    height: 180px;
+}
+
+.img{
+    width: 800px;
+    height: 180px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+nav{
+    width: 200px;
+    height: 500px;
+}
+
+main{
+    width: 760px;
+    height: 500px;
+    background-color: deeppink;
+}
+
+aside{
+    width: 200px;
+    height: 500px;
+}
+
+container{
+    width: 1160px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header>.img>img{
+    width: 800px;
+    height: 180px;
+}
+
+.img{
+    width: 800px;
+    height: 180px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+nav{
+    width: 200px;
+    height: 500px;
+    float: left;
+    background-color: gold;
+}
+
+main{
+    width: 760px;
+    height: 500px;
+    background-color: darkorchid;
+    float: left;
+}
+
+aside{
+    width: 200px;
+    height: 500px;
+    float: left;
+    background-color: brown;
+}
+
+.container {
+    width: 1160px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header {
+    width: 1160px;
+    height: 200px;
+    background-color: aqua;
+}
+
+header > .img > img {
+    width: 800px;
+    height: 180px;
+}
+
+.img {
+    width: 800px;
+    height: 180px;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+nav {
+    width: 200px;
+    height: 500px;
+    background-color: black;
+    float:left;
+}
+
+main{
+    width: 760px;
+    height: 500px;
+    background-color: brown;
+    float:left;
+}
+aside{
+    width: 200px;
+    height: 500px;
+    background-color: teal;
+    float:left;
+}
+footer{
+    clear:both;
+    width: 1160px;
+    height: 500px;
+    background-color: chocolate;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
